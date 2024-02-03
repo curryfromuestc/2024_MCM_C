@@ -1,0 +1,8 @@
+#pip install -r requirements.txt
+Cython
+matplotlib
+numpy
+torch
+torchvision
+scikit-learn
+pandas
